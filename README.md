@@ -8,7 +8,7 @@ This full-stack Node.JS application is used to monitor the sound levels around y
 
 ### Wiring Diagram
 
-
+https://github.com/leolinkebrown/IoT-Project-LHLB/blob/6d0bbc03e778991127399b1aaba3fe26974998a3/PXL_20230912_081016719.jpg 
 
 ### Demonstration
 
